@@ -1,39 +1,39 @@
-# Test Project
+ # Test Project
 
-          ## Table of Contents
-          - Descripton
-          - Installation
-          - Usage
-          - Contributing
-          - Contact
-          - License
+## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Contact](#contact)
+  * [License](#license)
         
-          ## Description
+## Description
         
-          Test Description;
+  Project description;
 
-          ## Installation
+## Installation
 
-          lkajsdf
+  installation instructions
 
-          ## Usage
+## Usage
 
-          jaslkdfj
+  usage explanation
 
-          ## Contributing
+## Contributing
 
-          jaslkdfj
+  contribution explanation
 
-          ## Contact
+## Contact
 
-          ### GitHub Name:
-          jasdlfkj
+### GitHub Name:
+  github username
 
-          ### Email:
-          jasdflkj
+### Email:
+  email address
 
-          ## License
+## License
 
-          Apache 2.0
+  MIT
           
 
