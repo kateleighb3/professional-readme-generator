@@ -38,6 +38,10 @@ function generateMarkdown(data) {
 
   ${data.contribute}
 
+## Tests
+
+  ${data.tests}
+
 ## Contact
 
 ### GitHub Name:

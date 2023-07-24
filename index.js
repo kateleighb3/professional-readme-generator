@@ -25,6 +25,10 @@ const questions = [
     name: 'contribute',}, 
 
     {type: 'input',
+    message: 'How do you test this project?',
+    name: 'tests',}, 
+
+    {type: 'input',
     message: 'What is your Github username?',
     name: 'github',}, 
 
